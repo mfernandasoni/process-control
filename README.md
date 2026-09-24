@@ -36,7 +36,7 @@ I was responsible for the full scope of the work, from designing the digital aud
 - Google Apps Script
 - Power BI (Power Query, DAX)
 ### 6. Evidence
-- 📊 Dashboard screenshots: see `/screenshots` in this repository
+- 📊 Dashboard screenshots: see `/Evidences` in this repository
 - 🎥 Demo video: *https://youtu.be/yf5NKughtNE?si=ETKFsETe8lIyms36*
 ---
  
@@ -72,5 +72,5 @@ Fui responsable de todo el alcance del trabajo, desde el diseño de los formular
 - Google Apps Script
 - Power BI (Power Query, DAX)
 ### 6. Evidencias
-- 📊 Capturas de pantalla del dashboard: ver carpeta `/screenshots` en este repositorio
+- 📊 Capturas de pantalla del dashboard: ver carpeta `/Evidences` en este repositorio
 - 🎥 Video demo: *https://youtu.be/yf5NKughtNE?si=ETKFsETe8lIyms36*
