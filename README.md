@@ -37,7 +37,7 @@ I was responsible for the full scope of the work, from designing the digital aud
 - Power BI (Power Query, DAX)
 ### 6. Evidence
 - 📊 Dashboard screenshots: see `/screenshots` in this repository
-- 🎥 Demo video: *[add YouTube link here]*
+- 🎥 Demo video: *https://youtu.be/yf5NKughtNE?si=ETKFsETe8lIyms36*
 ---
  
 <a name="español"></a>
@@ -73,4 +73,4 @@ Fui responsable de todo el alcance del trabajo, desde el diseño de los formular
 - Power BI (Power Query, DAX)
 ### 6. Evidencias
 - 📊 Capturas de pantalla del dashboard: ver carpeta `/screenshots` en este repositorio
-- 🎥 Video demo: *[agregar link de YouTube aquí]*
+- 🎥 Video demo: *https://youtu.be/yf5NKughtNE?si=ETKFsETe8lIyms36*
